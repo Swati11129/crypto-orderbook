@@ -1,0 +1,12 @@
+/* styles/Orderbook.module.css */
+.orderbook {
+    display: flex;
+    justify-content: space-around;
+  }
+  .bids, .asks {
+    width: 45%;
+  }
+  .bids h3, .asks h3 {
+    color: green;
+  }
+  
